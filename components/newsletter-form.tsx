@@ -106,7 +106,7 @@ export default function NewsletterForm() {
               variant="outline"
               className="w-full"
               onClick={() =>
-                window.open("https://chat.whatsapp.com/F2wyTgSW68A1M30lJzH1lM")
+                window.open("https://chat.whatsapp.com/BjbOtVkoSJrAr16lbgL2E7")
               }
             >
               <MessageCircle className="mr-2 h-4 w-4" />
