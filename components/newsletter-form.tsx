@@ -85,7 +85,7 @@ export default function NewsletterForm() {
         variant="outline"
         className="w-[300px] mt-5"
         onClick={() =>
-          window.open("https://github.com/bleriotnoguia/javascript.cm")
+          window.open("https://github.com/javascriptcm/javascript.cm")
         }
       >
         <Github className="mr-2 h-4 w-4" />
@@ -116,7 +116,7 @@ export default function NewsletterForm() {
               variant="outline"
               className="w-full"
               onClick={() =>
-                window.open("https://github.com/bleriotnoguia/javascript.cm")
+                window.open("https://github.com/javascriptcm/javascript.cm")
               }
             >
               <Github className="mr-2 h-4 w-4" />
